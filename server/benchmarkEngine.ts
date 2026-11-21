@@ -10,7 +10,7 @@ import type {
 
 export const PEER1_PDF_PATH = path.resolve(
   process.cwd(),
-  'public/assets/aistudio/peer1_emissions_report_960a1e7b.pdf'
+  'public/assets/aistudio/peer1_emissions_report.pdf'
 );
 export const PEER2_PDF_PATH = path.resolve(
   process.cwd(),
