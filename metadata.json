@@ -1,0 +1,6 @@
+{
+  "name": "CarbonLens — Emissions Analysis & Insights Agent",
+  "description": "AI-powered corporate greenhouse gas emissions analyzer with deterministic Scope 1-3 analytics, GHG Protocol RAG, data quality validation, and peer benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
